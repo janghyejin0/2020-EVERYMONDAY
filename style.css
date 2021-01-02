@@ -26,6 +26,7 @@ body{
 
 marquee{
   font-family: 'Old Standard TT', serif;
+  pointer-events: none;
 }
 
 /*솔비*/
@@ -112,6 +113,10 @@ body {
 
 #insta iframe{
   width: 100%;
+}
+
+marquee{
+  font-size: 0.8rem;
 }
 
 #sol {
