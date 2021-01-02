@@ -27,6 +27,7 @@ body{
 marquee{
   font-family: 'Old Standard TT', serif;
   pointer-events: none;
+  font-size:5;
 }
 
 /*솔비*/
